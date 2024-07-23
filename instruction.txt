@@ -1,0 +1,17 @@
+git log #输出git提交日志
+git init #初始化当前目录为一个git仓库
+git status #查看修改状态
+git add . #添加工作区到暂存区
+git commit -m"" # 添加暂存区到本地仓库 -m “备注内容”、
+git resset -hard commitID #版本回退到ID
+git reflog #查看已删除记录
+git branch #查看分支
+git checkout 分支名#切换分支
+git branch 分支名 #创建分支
+git merge 分支名 #合并分支
+git branch -d 分支名 删除分支
+git remote add origin git@github.com:GH账户名/仓库名.git#关联远程仓库
+git push -u origin master #将master分支同步到关联的远程库上并关联远程和本地的master分支
+git remote -v #查看远程库信息
+git remote rm 远程库名 #接触本地与远程库的绑定关系
+ git clone git@github.com:用户名/仓库名.git #克隆远程库
