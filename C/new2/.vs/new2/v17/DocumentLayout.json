@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adminl\\source\\repos\\new2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F1A6A-A3FB-485B-919C-D7D61C7737A8}|new2\\new2.vcxproj|C:\\Users\\adminl\\source\\repos\\new2\\new2\\new.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A2F1A6A-A3FB-485B-919C-D7D61C7737A8}|new2\\new2.vcxproj|solutionrelative:new2\\new.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new.c",
+              "DocumentMoniker": "C:\\Users\\adminl\\source\\repos\\new2\\new2\\new.c",
+              "RelativeDocumentMoniker": "new2\\new.c",
+              "ToolTip": "C:\\Users\\adminl\\source\\repos\\new2\\new2\\new.c",
+              "RelativeToolTip": "new2\\new.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-07T00:21:25.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
