@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git test\\C\\\u7EC3\u4E601\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CABAB6C-6A41-471A-976E-88D31E2E036C}|\u7EC3\u4E601\\\u7EC3\u4E601.vcxproj|D:\\git test\\C\\\u7EC3\u4E601\\\u7EC3\u4E601\\\u7EC3\u4E601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CABAB6C-6A41-471A-976E-88D31E2E036C}|\u7EC3\u4E601\\\u7EC3\u4E601.vcxproj|solutionrelative:\u7EC3\u4E601\\\u7EC3\u4E601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7EC3\u4E601.cpp",
+              "DocumentMoniker": "D:\\git test\\C\\\u7EC3\u4E601\\\u7EC3\u4E601\\\u7EC3\u4E601.cpp",
+              "RelativeDocumentMoniker": "\u7EC3\u4E601\\\u7EC3\u4E601.cpp",
+              "ToolTip": "D:\\git test\\C\\\u7EC3\u4E601\\\u7EC3\u4E601\\\u7EC3\u4E601.cpp",
+              "RelativeToolTip": "\u7EC3\u4E601\\\u7EC3\u4E601.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T01:42:36.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
